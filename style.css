@@ -21,6 +21,7 @@ main{
     min-height: var(--height);
     min-width: var(--with);
     position: relative;
+    
 }
 
 section{
